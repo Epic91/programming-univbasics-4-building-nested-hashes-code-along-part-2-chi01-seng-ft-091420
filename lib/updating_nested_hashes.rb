@@ -21,4 +21,6 @@ def update_status
 }
 
 epic_tragedy[:montague][:hero][:status] = "dead"
+puts epic_tragedy
+
 end
